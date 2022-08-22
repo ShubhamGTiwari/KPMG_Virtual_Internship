@@ -10,7 +10,7 @@ The primary goal of this project is to work with real data to solve a real-world
 - Data Visualisation
 
 ### Technologies used
-- Pyhton
+- Python
 - MS Excel
 - Jupyter Notebook, Pandas, Numpy
 - MS PowerBI
