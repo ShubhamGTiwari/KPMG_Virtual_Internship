@@ -15,5 +15,10 @@ The primary goal of this project is to work with real data to solve a real-world
 - Jupyter Notebook, Pandas, Numpy
 - MS PowerBI
 
+
+## License
+This project is licensed under the Apache License 2.0- see the [LICENSE](LICENSE) file for details.
+
+
 ## Credits
 KPMG AU Data Analytics Team
